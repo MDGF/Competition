@@ -1,0 +1,3 @@
+﻿  NolanCodeWPAFB.cpp
+h:\programming and web apps\c++\wpafb\nolancodewpafb\nolancodewpafb\nolancodewpafb.cpp(34): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  NolanCodeWPAFB.vcxproj -> H:\Programming and Web Apps\C++\WPAFB\NolanCodeWPAFB\Debug\NolanCodeWPAFB.exe
